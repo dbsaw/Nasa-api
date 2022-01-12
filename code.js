@@ -32,7 +32,7 @@ const copyright = data.copyright
 
 // display data to html
 const container = document.getElementById('data')
-container.innerHTML = " "
+container.innerHTML = "  "
 
 
 // creating elements
